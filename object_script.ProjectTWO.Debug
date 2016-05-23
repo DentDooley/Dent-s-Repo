@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\customer.o
+./debug\getandcheckintinput.o
+./debug\getreview.o
+./debug\createlist.o
+./debug\frontpage.o
+./debug\adminform.o
+./debug\adminlogin.o
+./debug\listview.o
+./debug\editmembers.o
+./debug\moc_frontpage.o
+./debug\moc_adminform.o
+./debug\moc_adminlogin.o
+./debug\moc_listview.o
+./debug\moc_editmembers.o
+);

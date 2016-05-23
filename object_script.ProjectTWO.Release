@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\customer.o
+./release\getandcheckintinput.o
+./release\getreview.o
+./release\createlist.o
+./release\frontpage.o
+./release\adminform.o
+./release\adminlogin.o
+./release\listview.o
+./release\editmembers.o
+./release\moc_frontpage.o
+./release\moc_adminform.o
+./release\moc_adminlogin.o
+./release\moc_listview.o
+./release\moc_editmembers.o
+);
